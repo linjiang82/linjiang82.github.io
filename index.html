@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div>
+  {% for category in site.categories %}
+    <p>{{category}}</p>
+</div>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
