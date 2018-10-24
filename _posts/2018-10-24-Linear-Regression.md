@@ -1,5 +1,6 @@
 ---
-category:MachineLearning
+title: Linear Regression
+category: MachineLearning
 ---
 
 Followings are the important functions will be used when implementation of linear regression algorithm.    
