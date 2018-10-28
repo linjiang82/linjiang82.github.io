@@ -1,17 +1,17 @@
 ---
 layout: default
+
 ---
+
 
 <div>
   {% for category in site.categories %}
-    <p>{{category}}</p>
-  {% endfor %}
-</div>
-<div class="posts">
-  {% for post in site.posts %}
+    {%- capture category_name %}{{ category|first|strip }}{% endcapture %}
+    <h1><a href="{{site.baseurl}}/{{category_name|downcase}}">{{category_name}}</a></h1>
+    {% for post in site.categories[category_name] %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -19,5 +19,6 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endfor %}
   {% endfor %}
 </div>
