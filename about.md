@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Enthusiastic Junior Front End Web Developer with a lifelong passion for learning new skills and techniques. Incorporates an engineering background with a love for all things tech, providing an exceptional level of quality in all work.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Frontend Development: React.js, Redux, Fluter, React-Router, HTML5, CSS, material-UI, Bootstrap
+Backend Development: Node.js, Express, MongoDB, MySQL, PostgreSQL
+Development Architecture: OOP, MVC
+Additional Skills: ES6, JavaScript, Git, Python
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[linjiang82@gmail.com](mailto:linjiang82@gmail.com)
