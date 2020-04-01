@@ -12,6 +12,7 @@
 * First, it gets assets from Networking component
 * Then, the HTML parser parses the HTML files and produce the DOM Tree, the CSS parser parses CSS files and produce CSSOM Tree
 * Render Tree is produced by combining DOM Tree and CSSOM Tree, but hidden DOMs will be omitted in Render Tree and won't be painted onto screen
+![create render tree](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/images/render-tree-construction.png)
 * Render Tree goes through Layout process, so all nodes in Render Tree know their positions in the page
 * Paint the Layout onto screen by using UI backend.
 
