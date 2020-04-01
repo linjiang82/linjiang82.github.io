@@ -8,10 +8,10 @@ Enthusiastic Junior Front End Web Developer with a lifelong passion for learning
 
 ### More Information
 
-Frontend Development: React.js, Redux, Fluter, React-Router, HTML5, CSS, material-UI, Bootstrap  
-Backend Development: Node.js, Express, MongoDB, MySQL, PostgreSQL  
-Development Architecture: OOP, MVC  
-Additional Skills: ES6, JavaScript, Git, Python  
+* Frontend Development: React.js, Redux, Fluter, React-Router, HTML5, CSS, material-UI, Bootstrap  
+* Backend Development: Node.js, Express, MongoDB, MySQL, PostgreSQL  
+* Development Architecture: OOP, MVC  
+* Additional Skills: ES6, JavaScript, Git, Python  
 
 ### Contact me
 
