@@ -1,3 +1,8 @@
+---
+/*title: Flutter Learning Journal */
+categories: WebDevelop
+---
+
 ## The components of a browser
 ![browser components](https://miro.medium.com/max/500/1*7Z5Yr1rxyZsevxYxWSgYQA.png)
 * UI Interface is just the interface a user can see on the browser, such as Forward/backward buttons, address bar etc.
